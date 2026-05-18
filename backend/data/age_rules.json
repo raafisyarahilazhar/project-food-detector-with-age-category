@@ -1,0 +1,17 @@
+{
+  "anak": {
+    "max_kalori": 500,
+    "max_gula": 25,
+    "max_natrium": 300
+  },
+  "remaja": {
+    "max_kalori": 700,
+    "max_gula": 40,
+    "max_natrium": 500
+  },
+  "dewasa": {
+    "max_kalori": 800,
+    "max_gula": 50,
+    "max_natrium": 700
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "nasi_goreng": {
+    "kalori": 267,
+    "protein": 5.2,
+    "lemak": 10.3,
+    "karbohidrat": 35.1,
+    "gula": 3.2,
+    "natrium": 400
+  },
+  "donat": {
+    "kalori": 452,
+    "protein": 4.9,
+    "lemak": 25.0,
+    "karbohidrat": 51.0,
+    "gula": 22.0,
+    "natrium": 326
+  }
+}
